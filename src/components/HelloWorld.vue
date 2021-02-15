@@ -10,12 +10,12 @@
               <h1>Hello, I’m Wahab Habib.</h1>
             </div>
             <div class="bio-paragraph">
-              <p>I’m a Software Engineer. I do frontend development and i'm based in Nigeria.</p>
+              <p>I’m a Software Engineer. I'm frontend developer and i'm based in Nigeria.</p>
               <p>
                 I'm usually somewhere on the internet. You can find me oversharing on
                 <a target="_blank" href="https://twitter.com/black_dev_">twitter</a>, exploring
                 <a target="_blank" href="https://www.facebook.com/habib.wahab.16">facebook</a> contents, posting exciting projects on
-                <a target="_blank" href="https://github.com/iamblackdev">github</a>, or occasionally looking for new stuffs to learn.
+                <a target="_blank" href="https://github.com/iamblackdev">github</a>, or occasionally looking for new stuff to learn.
               </p>
             </div>
 
@@ -106,13 +106,12 @@
             <div class=" about">
 
               
-                <h2 class="w-100 section-header sticky-top">About</h2>
-             
+                <h2 class="w-100 section-header sticky-top">About</h2> 
               
                 <div class="about-card ">
 
                   <p>
-                   I'm a Frontend web developer based in Nigeria, working with different web technologies to achieve awesome results while following best practices applicable. I'm capable of learning and working with new technologies swiftly.
+                   I'm a Frontend web developer based in Nigeria, working with different web technologies to build projects i find intresting and having direct impact on people, while following best practices applicable. I'm capable of learning and working with new technologies swiftly.
                   </p>
                   <p>
                      Most of my time is spent on learning new technologies in the web to build awesome stuffs.
@@ -122,8 +121,7 @@
                   </p>
 
 
-                </div>
-              
+                </div>             
 
             </div>
 
@@ -560,7 +558,7 @@ export default {
   }
   .contact{
   margin-top: 20px;
-  margin-bottom: 0px;
+  margin-bottom: 10px;
   }
   .loader{
     left: 15px;
