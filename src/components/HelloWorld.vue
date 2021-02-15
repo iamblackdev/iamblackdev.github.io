@@ -269,9 +269,6 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 /* utilities */
-*:focus{
-  
-}
 .card-heading{
   font-size: 10px;
   font-weight: 700;
