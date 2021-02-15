@@ -535,6 +535,9 @@ export default {
     letter-spacing: 3px;
     z-index: 999999;
   }
+  .project-card:hover{
+    transform: scale(1);
+  }
   .loader{
     left: 29px;
   }
