@@ -10,7 +10,7 @@
               <h1>Hello, I’m Wahab Habib.</h1>
             </div>
             <div class="bio-paragraph">
-              <p>I’m a Software Engineer. I'm frontend developer and i'm based in Nigeria.</p>
+              <p>I’m a Software Engineer, particularly a frontend developer based in Nigeria.</p>
               <p>
                 I'm usually somewhere on the internet. You can find me oversharing on
                 <a target="_blank" href="https://twitter.com/black_dev_">twitter</a>, exploring
