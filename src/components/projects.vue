@@ -102,6 +102,9 @@ export default {
   .project-card:hover{
     transform: scale(1);
   }
+  .projectCardHoverEffect{
+    opacity: 1;
+}
 }
 @media (max-width: 767.98px) { 
   .project-title{
