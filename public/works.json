@@ -11,6 +11,16 @@
     },
     {
         "id":2,
+        "name":"Hashnode Blog",
+        "link":"https://hashnodeblog.netlify.app/",
+        "techUsed":"HTML, CSS, Javascript (React), GraphQL API",
+        "description":"A blog that uses hashnode GraphQL API to get story feed, user blog and details ",
+        "projectActive": false,
+        "github": "https://github.com/iamblackdev/greedy-hunter"
+
+    },
+    {
+        "id":3,
         "name":"TalentPool",
         "link":"https://talentspool.netlify.app/",
         "techUsed":"HTML, CSS, Bootstrap, Javascript",
@@ -19,7 +29,7 @@
 
     },
     {
-        "id":3,
+        "id":4,
         "name":"Fashion E-commerce",
         "link":"https://fashon-commerce.netlify.app/",
         "techUsed":"HTML, CSS, Bootstrap, Javascript (Vue js)",
@@ -29,7 +39,7 @@
 
     },
     {
-        "id":4,
+        "id":5,
         "name":"Everything Notch",
         "link":"https://everythingnotch.netlify.app/",
         "techUsed":"HTML, CSS, Bootstrap, Javascript",
@@ -39,7 +49,7 @@
 
     },
     {
-        "id":5,
+        "id":6,
         "name":"Evanto Portfolio",
         "link":"https://evanto-musical-porfolio.netlify.app/",
         "techUsed":"HTML, CSS, Bootstrap",
@@ -49,7 +59,7 @@
 
     },
     {
-        "id":6,
+        "id":7,
         "name":"Blog Template",
         "link":"https://themesflat-blog-template.netlify.app/",
         "techUsed":"HTML, CSS, Bootstrap",
@@ -59,7 +69,7 @@
 
     },
     {
-        "id":7,
+        "id":8,
         "name":"New StartNG website",
         "link":"https://new-start-ng.netlify.app/",
         "techUsed":"HTML, CSS, Bootstrap",
@@ -69,7 +79,7 @@
 
     },
     {
-        "id":8,
+        "id":9,
         "name":"Engineering Template",
         "link":"https://engineering-template.netlify.app/",
         "techUsed":"HTML, CSS, Bootstrap",
@@ -79,7 +89,7 @@
 
     },
     {
-        "id":9,
+        "id":10,
         "name":"Cyber Profiler",
         "link":"https://cyberprofiler.herokuapp.com/",
         "techUsed":"HTML, CSS, Bootstrap, PHP",
