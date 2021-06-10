@@ -1,6 +1,5 @@
 [
     {
-        "id":1,
         "name":"Greedy Hunter",
         "link":"https://greedy-hunter.netlify.app/",
         "techUsed":"HTML, CSS, Javascript (Vue js)",
@@ -10,17 +9,24 @@
 
     },
     {
-        "id":2,
         "name":"Hashnode Blog",
         "link":"https://hashnodeblog.netlify.app/",
-        "techUsed":"HTML, CSS, Javascript (React), GraphQL API",
-        "description":"A blog that uses hashnode GraphQL API to get story feed, user blog and details ",
+        "techUsed":"HTML, CSS, Javascript (React), GraphQL",
+        "description":"A blog that uses hashnode graphQL API to get story feed, user blog and details ",
         "projectActive": false,
         "github": "https://github.com/iamblackdev/greedy-hunter"
 
     },
     {
-        "id":3,
+        "name":"Github Repository",
+        "link":"https://bycoins-frontend-challenge.netlify.app/",
+        "techUsed":"HTML, CSS, Javascript (React), GraphQL",
+        "description":"Using the Github graphQL API to look up repositories and searching for users respectively",
+        "projectActive": false,
+        "github": "https://github.com/iamblackdev/Buycoins-Frontend-Challenge-"
+
+    },
+    {
         "name":"TalentPool",
         "link":"https://talentspool.netlify.app/",
         "techUsed":"HTML, CSS, Bootstrap, Javascript",
@@ -29,7 +35,6 @@
 
     },
     {
-        "id":4,
         "name":"Fashion E-commerce",
         "link":"https://fashon-commerce.netlify.app/",
         "techUsed":"HTML, CSS, Bootstrap, Javascript (Vue js)",
@@ -39,7 +44,6 @@
 
     },
     {
-        "id":5,
         "name":"Everything Notch",
         "link":"https://everythingnotch.netlify.app/",
         "techUsed":"HTML, CSS, Bootstrap, Javascript",
@@ -49,7 +53,6 @@
 
     },
     {
-        "id":6,
         "name":"Evanto Portfolio",
         "link":"https://evanto-musical-porfolio.netlify.app/",
         "techUsed":"HTML, CSS, Bootstrap",
@@ -59,7 +62,6 @@
 
     },
     {
-        "id":7,
         "name":"Blog Template",
         "link":"https://themesflat-blog-template.netlify.app/",
         "techUsed":"HTML, CSS, Bootstrap",
@@ -69,7 +71,6 @@
 
     },
     {
-        "id":8,
         "name":"New StartNG website",
         "link":"https://new-start-ng.netlify.app/",
         "techUsed":"HTML, CSS, Bootstrap",
@@ -79,7 +80,6 @@
 
     },
     {
-        "id":9,
         "name":"Engineering Template",
         "link":"https://engineering-template.netlify.app/",
         "techUsed":"HTML, CSS, Bootstrap",
@@ -89,7 +89,6 @@
 
     },
     {
-        "id":10,
         "name":"Cyber Profiler",
         "link":"https://cyberprofiler.herokuapp.com/",
         "techUsed":"HTML, CSS, Bootstrap, PHP",
