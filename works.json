@@ -26,8 +26,9 @@
     "name": "Invoice Tool",
     "link": "https://invoice-tool-app.vercel.app/",
     "techUsed": "SCSS, Javascript(React)",
-    "description": "Talentpool connect companies with top talents perfect for their tech needs (HNGi7 Project)",
-    "projectActive": false
+    "description": "A webapp used for creating and printing of invoice.",
+    "projectActive": false,
+    "github": "https://github.com/iamblackdev/invoice-tool"
   },
   {
     "name": "Hashnode Blog",
