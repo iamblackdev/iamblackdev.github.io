@@ -32,7 +32,7 @@
               </p>
             </div>
 
-            <div id="list-example" class="nav ">
+            <div id="list-example" class="nav">
               <ul>
                 <li class="">
                   <a class="list-group-item active" href="#home">
@@ -71,7 +71,7 @@
                       xmlns="http://www.w3.org/2000/svg"
                       class="mr-2"
                       viewBox="0 0 24 24"
-                      style="fill:white"
+                      style="fill: white"
                       aria-hidden="true"
                       width="16"
                       height="16"
@@ -163,7 +163,7 @@
                       xmlns="http://www.w3.org/2000/svg"
                       viewBox="0 0 24 24"
                       class="mr-3"
-                      style="fill:white"
+                      style="fill: white"
                       width="16"
                       height="16"
                       aria-hidden="true"
@@ -336,6 +336,8 @@ export default {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
+  justify-content: center;
+  row-gap: 20px;
 }
 .socials ul li a:hover {
   color: white;
