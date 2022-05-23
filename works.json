@@ -4,7 +4,7 @@
     "link": "https://eventark.ng/",
     "techUsed": "Javascript (React js), Scss,",
     "description": "Eventark makes creating and sharing of event easily for users, also take records of users attending and payment made, Check it out!!!",
-
+    "projectActive": false,
     "github": "https://github.com/eventark/app"
   },
   {
@@ -12,7 +12,7 @@
     "link": "https://greedy-hunter.netlify.app/",
     "techUsed": "SCSS, Javascript (Vue js)",
     "description": "A game built with vue js. The aim is to eat all the food in the game",
-
+    "projectActive": false,
     "github": "https://github.com/iamblackdev/greedy-hunter"
   },
   {
@@ -27,7 +27,7 @@
     "link": "https://invoice-tool-app.vercel.app/",
     "techUsed": "SCSS, Javascript(React)",
     "description": "A webapp used for creating and printing of invoice.",
-
+    "projectActive": false,
     "github": "https://github.com/iamblackdev/invoice-tool"
   },
   {
@@ -35,15 +35,23 @@
     "link": "https://hashnodeblog.netlify.app/",
     "techUsed": "SCSS, Javascript (React), GraphQL",
     "description": "A blog that uses hashnode graphQL API to get story feed, user blog and details ",
-
+    "projectActive": false,
     "github": "https://github.com/iamblackdev/greedy-hunter"
+  },
+  {
+    "name": "Github Repository",
+    "link": "https://talentx.vercel.app/",
+    "techUsed": "SCSS, Javascript (Nextjs)",
+    "description": "A project for a company",
+    "projectActive": false,
+    "github": "https://iamblackdev.github.io/"
   },
   {
     "name": "Github Repository",
     "link": "https://bycoins-frontend-challenge.netlify.app/",
     "techUsed": "SCSS, Javascript (React), GraphQL",
     "description": "Using the Github graphQL API to look up repositories and searching for users respectively",
-
+    "projectActive": false,
     "github": "https://github.com/iamblackdev/Buycoins-Frontend-Challenge-"
   },
 
@@ -52,7 +60,7 @@
     "link": "https://fashon-commerce.netlify.app/",
     "techUsed": "CSS, Bootstrap, Javascript (Vue js)",
     "description": "A fashion e-commerce built with Vue",
-
+    "projectActive": false,
     "github": "https://github.com/iamblackdev/Fashion-Commerce"
   },
   {
@@ -60,7 +68,7 @@
     "link": "https://evanto-musical-porfolio.netlify.app/",
     "techUsed": "HTML, CSS, Bootstrap",
     "description": "HNGi7 Evanto Porfolio Project",
-
+    "projectActive": false,
     "github": "https://github.com/iamblackdev/evanto-musical-portfolio"
   }
 ]
