@@ -39,6 +39,14 @@
     "github": "https://github.com/iamblackdev/greedy-hunter"
   },
   {
+    "name": "Talentx",
+    "link": "https://talentx.vercel.app/",
+    "techUsed": "SCSS, Javascript (Nextjs)",
+    "description": "A project for a company",
+    "projectActive": false,
+    "github": "https://iamblackdev.github.io/"
+  },
+  {
     "name": "Github Repository",
     "link": "https://bycoins-frontend-challenge.netlify.app/",
     "techUsed": "SCSS, Javascript (React), GraphQL",
