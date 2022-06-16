@@ -8,6 +8,14 @@
     "github": "https://github.com/eventark/app"
   },
   {
+    "name": "Support Widget",
+    "link": "https://iamblackdev.github.io/supportwidget/",
+    "techUsed": "SCSS, Typescript, React js",
+    "description": "If you’re always looking for how to add a beautiful contact form to your website without having to build one yourself, I created support widget: it sends filled messages directly to your mail without you doing any extra work",
+    "projectActive": false,
+    "github": "https://github.com/iamblackdev/support-widget"
+  },
+  {
     "name": "Greedy Hunter",
     "link": "https://greedy-hunter.netlify.app/",
     "techUsed": "SCSS, Javascript (Vue js)",
