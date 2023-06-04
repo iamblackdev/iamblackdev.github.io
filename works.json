@@ -1,11 +1,34 @@
 [
   {
-    "name": "Eventark",
-    "link": "https://eventark.ng/",
-    "techUsed": "Javascript (React js), Scss,",
-    "description": "Eventark makes creating and sharing of event easily for users, also take records of users attending and payment made, Check it out!!!",
+    "name": "AITI",
+    "link": "https://aiti.ng/",
+    "techUsed": "Javascript (Vue js), Scss",
+    "description": "AITI is an E-learning platform that helps users get started with tech.",
     "projectActive": false,
-    "github": "https://github.com/eventark/app"
+    "github": ""
+  },
+  {
+    "name": "Eventark",
+    "link": "https://eventark-ten.vercel.app/",
+    "techUsed": "Javascript (Next js), Scss",
+    "description": "Eventark makes creating and sharing of event easily for users, also take records of users attending and payment made.",
+    "projectActive": false,
+    "github": ""
+  },
+  {
+    "name": "Riltee",
+    "link": "https://www.riltee.com/",
+    "techUsed": "Javascript (Next js), Scss,",
+    "description": "Riltee helps it users Invest in high-yield rental properties and start getting rental income with ease.",
+    "projectActive": false,
+    "github": ""
+  },
+  {
+    "name": "Talentx",
+    "link": "https://talentx.vercel.app/",
+    "techUsed": "SCSS, Javascript (Nextjs)",
+    "description": "Africa's 1st Film Financing Marketplace",
+    "projectActive": false
   },
   {
     "name": "Support Widget",
@@ -14,21 +37,6 @@
     "description": "If you’re always looking for how to add a beautiful contact form to your website without having to build one yourself, I created support widget: it sends filled messages directly to your mail without you doing any extra work",
     "projectActive": false,
     "github": "https://github.com/iamblackdev/support-widget"
-  },
-  {
-    "name": "Greedy Hunter",
-    "link": "https://greedy-hunter.netlify.app/",
-    "techUsed": "SCSS, Javascript (Vue js)",
-    "description": "A game built with vue js. The aim is to eat all the food in the game",
-    "projectActive": false,
-    "github": "https://github.com/iamblackdev/greedy-hunter"
-  },
-  {
-    "name": "TalentPool",
-    "link": "https://talentspool.netlify.app/",
-    "techUsed": "HTML, CSS, Bootstrap, Javascript",
-    "description": "Talentpool connect companies with top talents perfect for their tech needs (HNGi7 Project)",
-    "projectActive": false
   },
   {
     "name": "Invoice Tool",
@@ -47,22 +55,28 @@
     "github": "https://github.com/iamblackdev/greedy-hunter"
   },
   {
-    "name": "Talentx",
-    "link": "https://talentx.vercel.app/",
-    "techUsed": "SCSS, Javascript (Nextjs)",
-    "description": "A project for a company",
+    "name": "Greedy Hunter",
+    "link": "https://greedy-hunter.netlify.app/",
+    "techUsed": "SCSS, Javascript (Vue js)",
+    "description": "A game built with vue js. The aim is to eat all the food in the game",
     "projectActive": false,
-    "github": "https://iamblackdev.github.io/"
+    "github": "https://github.com/iamblackdev/greedy-hunter"
   },
   {
-    "name": "Github Repository",
-    "link": "https://bycoins-frontend-challenge.netlify.app/",
-    "techUsed": "SCSS, Javascript (React), GraphQL",
-    "description": "Using the Github graphQL API to look up repositories and searching for users respectively",
+    "name": "Evanto Portfolio",
+    "link": "https://evanto-musical-porfolio.netlify.app/",
+    "techUsed": "HTML, CSS, Bootstrap",
+    "description": "HNGi7 Evanto Porfolio Project",
     "projectActive": false,
-    "github": "https://github.com/iamblackdev/Buycoins-Frontend-Challenge-"
+    "github": "https://github.com/iamblackdev/evanto-musical-portfolio"
   },
-
+  {
+    "name": "TalentPool",
+    "link": "https://talentspool.netlify.app/",
+    "techUsed": "HTML, CSS, Bootstrap, Javascript",
+    "description": "Talentpool connect companies with top talents perfect for their tech needs (HNGi7 Project)",
+    "projectActive": false
+  },
   {
     "name": "Fashion E-commerce",
     "link": "https://fashon-commerce.netlify.app/",
@@ -72,11 +86,11 @@
     "github": "https://github.com/iamblackdev/Fashion-Commerce"
   },
   {
-    "name": "Evanto Portfolio",
-    "link": "https://evanto-musical-porfolio.netlify.app/",
-    "techUsed": "HTML, CSS, Bootstrap",
-    "description": "HNGi7 Evanto Porfolio Project",
+    "name": "Github Repository",
+    "link": "https://bycoins-frontend-challenge.netlify.app/",
+    "techUsed": "SCSS, Javascript (React), GraphQL",
+    "description": "Using the Github graphQL API to look up repositories and searching for users respectively",
     "projectActive": false,
-    "github": "https://github.com/iamblackdev/evanto-musical-portfolio"
+    "github": "https://github.com/iamblackdev/Buycoins-Frontend-Challenge-"
   }
 ]
