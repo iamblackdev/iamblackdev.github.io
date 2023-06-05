@@ -47,14 +47,6 @@
     "github": "https://github.com/iamblackdev/invoice-tool"
   },
   {
-    "name": "Hashnode Blog",
-    "link": "https://hashnodeblog.netlify.app/",
-    "techUsed": "SCSS, Javascript (React), GraphQL",
-    "description": "A blog that uses hashnode graphQL API to get story feed, user blog and details ",
-    "projectActive": false,
-    "github": "https://github.com/iamblackdev/greedy-hunter"
-  },
-  {
     "name": "Greedy Hunter",
     "link": "https://greedy-hunter.netlify.app/",
     "techUsed": "SCSS, Javascript (Vue js)",
@@ -69,28 +61,5 @@
     "description": "HNGi7 Evanto Porfolio Project",
     "projectActive": false,
     "github": "https://github.com/iamblackdev/evanto-musical-portfolio"
-  },
-  {
-    "name": "TalentPool",
-    "link": "https://talentspool.netlify.app/",
-    "techUsed": "HTML, CSS, Bootstrap, Javascript",
-    "description": "Talentpool connect companies with top talents perfect for their tech needs (HNGi7 Project)",
-    "projectActive": false
-  },
-  {
-    "name": "Fashion E-commerce",
-    "link": "https://fashon-commerce.netlify.app/",
-    "techUsed": "CSS, Bootstrap, Javascript (Vue js)",
-    "description": "A fashion e-commerce built with Vue",
-    "projectActive": false,
-    "github": "https://github.com/iamblackdev/Fashion-Commerce"
-  },
-  {
-    "name": "Github Repository",
-    "link": "https://bycoins-frontend-challenge.netlify.app/",
-    "techUsed": "SCSS, Javascript (React), GraphQL",
-    "description": "Using the Github graphQL API to look up repositories and searching for users respectively",
-    "projectActive": false,
-    "github": "https://github.com/iamblackdev/Buycoins-Frontend-Challenge-"
   }
 ]
