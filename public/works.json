@@ -8,6 +8,14 @@
     "github": ""
   },
   {
+    "name": "Eventark",
+    "link": "https://eventark-ten.vercel.app/",
+    "techUsed": "Javascript (Next js), Scss",
+    "description": "Eventark makes creating and sharing of event easily for users, also take records of users attending and payment made.",
+    "projectActive": false,
+    "github": ""
+  },
+  {
     "name": "Zainab Wahab",
     "link": "https://zainabwahab.vercel.app",
     "techUsed": "Javascript (React js), Scss, Gsap",
@@ -36,14 +44,6 @@
     "link": "https://www.riltee.com/",
     "techUsed": "Javascript (Next js), Scss,",
     "description": "Riltee helps it users Invest in high-yield rental properties and start getting rental income with ease.",
-    "projectActive": false,
-    "github": ""
-  },
-  {
-    "name": "Eventark",
-    "link": "https://eventark-ten.vercel.app/",
-    "techUsed": "Javascript (Next js), Scss",
-    "description": "Eventark makes creating and sharing of event easily for users, also take records of users attending and payment made.",
     "projectActive": false,
     "github": ""
   },
