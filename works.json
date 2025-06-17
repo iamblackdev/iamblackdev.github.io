@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Spillmetrics",
+    "link": "https://www.spillmetrics.com/",
+    "techUsed": "Javascript (React js), Scss, PWA",
+    "description": "Spillmetrics is a platform designed to help traders track and analyze their trading progress. It allows users to maintain a journal of their trades, offering insights to improve performance and make better trading decisions.",
+    "projectActive": false,
+    "github": ""
+  },
+  {
+    "name": "Eventark",
+    "link": "https://eventark-ten.vercel.app/",
+    "techUsed": "Javascript (Next js), Scss",
+    "description": "Eventark makes creating and sharing of event easily for users, also take records of users attending and payment made.",
+    "projectActive": false,
+    "github": ""
+  },
+  {
+    "name": "Zainab Wahab",
+    "link": "https://zainabwahab.vercel.app",
+    "techUsed": "Javascript (React js), Scss, Gsap",
+    "description": "I built a portfolio for Zainab Wahab, a Nigerian product designer, featuring interactive elements and visuals that showcase my frontend development skills.",
+    "projectActive": false,
+    "github": ""
+  },
+  {
+    "name": "AITI",
+    "link": "https://aiti.ng/",
+    "techUsed": "Javascript (Vue js), Scss",
+    "description": "AITI (African Institute of Technology and Innovation) is an educational platform designed to empower African youths with in-demand tech skills. Their programs aim to bridge the gap between African talent and the global tech industry by offering courses in areas such as frontend and backend development, product management, AI, cybersecurity, cloud computing, blockchain, and more.",
+    "projectActive": false,
+    "github": ""
+  },
+  {
+    "name": "Support Widget (Open Source)",
+    "link": "https://iamblackdev.github.io/supportwidget/",
+    "techUsed": "SCSS, Typescript, React js",
+    "description": "If you’re always looking for how to add a beautiful contact form to your website without having to build one yourself, I created support widget: it sends filled messages directly to your mail without you doing any extra work",
+    "projectActive": false,
+    "github": "https://github.com/iamblackdev/support-widget"
+  },
+  {
+    "name": "Riltee",
+    "link": "https://www.riltee.com/",
+    "techUsed": "Javascript (Next js), Scss,",
+    "description": "Riltee helps it users Invest in high-yield rental properties and start getting rental income with ease.",
+    "projectActive": false,
+    "github": ""
+  },
+  {
+    "name": "Talentx",
+    "link": "https://talentx.vercel.app/",
+    "techUsed": "SCSS, Javascript (Nextjs)",
+    "description": "Africa's 1st Film Financing Marketplace",
+    "projectActive": false
+  },
+  {
+    "name": "Invoice Tool",
+    "link": "https://invoice-tool-app.vercel.app/",
+    "techUsed": "SCSS, Javascript(React)",
+    "description": "A webapp used for creating and printing of invoice.",
+    "projectActive": false,
+    "github": "https://github.com/iamblackdev/invoice-tool"
+  },
+  {
+    "name": "Greedy Hunter",
+    "link": "https://greedy-hunter.netlify.app/",
+    "techUsed": "SCSS, Javascript (Vue js)",
+    "description": "A game built with vue js. The aim is to eat all the food in the game",
+    "projectActive": false,
+    "github": "https://github.com/iamblackdev/greedy-hunter"
+  }
+]
