@@ -1,17 +1,47 @@
 [
   {
+    "name": "FxLens",
+    "link": "https://fxlens.app/",
+    "techUsed": "JavaScript (React Native), TypeScript, Appwrite",
+    "description": "FXLens is a mobile trading assistant built with React Native and Appwrite, offering automated chart generation, cloud-synced analysis storage, secure authentication, and daily analysis limits. It streamlines market preparation by enabling traders to capture chart data and structure insights efficiently across iOS and Android.",
+    "projectActive": false,
+    "github": "",
+    "ios": "https://apps.apple.com/ng/app/fxlens-save-charting-time/id6748287547",
+    "android": "https://play.google.com/store/apps/details?id=com.danieldon.fxlens"
+  },
+  {
     "name": "Spillmetrics",
     "link": "https://www.spillmetrics.com/",
     "techUsed": "Javascript (React js), Scss, PWA",
-    "description": "Spillmetrics is a platform designed to help traders track and analyze their trading progress. It allows users to maintain a journal of their trades, offering insights to improve performance and make better trading decisions.",
+    "description": "Spillmetrics is a progressive web application for tracking and analyzing trading performance. It features trade journaling, analytics visualization, offline support, and persistent data storage, built on a modular React architecture optimized for handling large datasets.",
     "projectActive": false,
     "github": ""
   },
   {
+  "name": "PerfectPlace",
+  "link": "https://perfectplace.app/",
+  "techUsed": "React Native, TypeScript, Firebase, Cloud Functions",
+  "description": "PerfectPlace is a cross-platform property discovery and rental booking app built with React Native. It features real-time property listings, user authentication, location-based search, media-rich property pages, and Firebase-backed data syncing for consistent performance across Web, iOS, and Android.",
+  "projectActive": true,
+  "github": "",
+  "ios": "https://apps.apple.com/au/app/perfect-place/id6474275280",
+  "android": "https://play.google.com/store/apps/details?id=app.perfectplace.app"
+},
+{
+  "name": "CareConnect",
+  "link": "https://apps.apple.com/us/app/care-connects/id6737184309",
+  "techUsed": "React Native, TypeScript, Appwrite, REST APIs",
+  "description": "CareConnect is a mobile healthcare coordination app designed for caregivers and families. Built with React Native, it includes secure onboarding, appointment scheduling, symptom logging, caregiver communication tools, and encrypted cloud storage integrated through Appwrite and REST APIs.",
+  "projectActive": true,
+  "github": "",
+  "ios":"https://apps.apple.com/us/app/care-connects/id6737184309",
+  "android": "https://play.google.com/store/apps/details?id=com.fatemahcorp.careconnectproduction"
+},
+  {
     "name": "Eventark",
     "link": "https://eventark-ten.vercel.app/",
     "techUsed": "Javascript (Next js), Scss",
-    "description": "Eventark makes creating and sharing of event easily for users, also take records of users attending and payment made.",
+    "description": "Eventark is an event creation and sharing platform built with Next.js, offering server-side rendering, secure event links, attendee tracking, and payment record management. It utilizes dynamic routing and optimized static generation for fast performance.",
     "projectActive": false,
     "github": ""
   },
@@ -19,7 +49,7 @@
     "name": "Zainab Wahab",
     "link": "https://zainabwahab.vercel.app",
     "techUsed": "Javascript (React js), Scss, Gsap",
-    "description": "I built a portfolio for Zainab Wahab, a Nigerian product designer, featuring interactive elements and visuals that showcase my frontend development skills.",
+    "description": "A motion-focused portfolio built with React and GSAP, featuring scroll-triggered animations, component-based transitions, and optimized media loading to showcase visual design projects interactively.",
     "projectActive": false,
     "github": ""
   },
@@ -27,7 +57,7 @@
     "name": "AITI",
     "link": "https://aiti.ng/",
     "techUsed": "Javascript (Vue js), Scss",
-    "description": "AITI (African Institute of Technology and Innovation) is an educational platform designed to empower African youths with in-demand tech skills. Their programs aim to bridge the gap between African talent and the global tech industry by offering courses in areas such as frontend and backend development, product management, AI, cybersecurity, cloud computing, blockchain, and more.",
+    "description": "AITI is a Vue.js-based educational platform offering structured course pages, curriculum modules, user enrollment flows, and reusable UI components. It is optimized for fast content delivery and scalable program expansion across multiple tech disciplines.",
     "projectActive": false,
     "github": ""
   },
@@ -35,15 +65,15 @@
     "name": "Support Widget (Open Source)",
     "link": "https://iamblackdev.github.io/supportwidget/",
     "techUsed": "SCSS, Typescript, React js",
-    "description": "If you’re always looking for how to add a beautiful contact form to your website without having to build one yourself, I created support widget: it sends filled messages directly to your mail without you doing any extra work",
+    "description": "An embeddable support widget built as a standalone React component, handling form validation, message dispatching, and custom styling through scoped CSS. Designed for effortless integration via script embed or component import with no backend setup required.",
     "projectActive": false,
     "github": "https://github.com/iamblackdev/support-widget"
   },
   {
     "name": "Riltee",
     "link": "https://www.riltee.com/",
-    "techUsed": "Javascript (Next js), Scss,",
-    "description": "Riltee helps it users Invest in high-yield rental properties and start getting rental income with ease.",
+    "techUsed": "Javascript (Next js), Scss",
+    "description": "Riltee is a real-estate investment platform built with Next.js, featuring dynamic property listings, ROI projections, secure onboarding flows, and data-driven pages rendered using server-side techniques for speed and SEO performance.",
     "projectActive": false,
     "github": ""
   },
@@ -51,14 +81,15 @@
     "name": "Talentx",
     "link": "https://talentx.vercel.app/",
     "techUsed": "SCSS, Javascript (Nextjs)",
-    "description": "Africa's 1st Film Financing Marketplace",
-    "projectActive": false
+    "description": "TalentX is a film financing marketplace built with Next.js, supporting dynamic project listings, pitch pages, and investor interest tracking through responsive, modular SCSS-styled components.",
+    "projectActive": false,
+    "github": ""
   },
   {
     "name": "Invoice Tool",
     "link": "https://invoice-tool-app.vercel.app/",
     "techUsed": "SCSS, Javascript(React)",
-    "description": "A webapp used for creating and printing of invoice.",
+    "description": "A lightweight invoice generator developed in React, featuring dynamic item rows, automatic calculations, printable invoice layouts, and a clean controlled-component architecture.",
     "projectActive": false,
     "github": "https://github.com/iamblackdev/invoice-tool"
   },
@@ -66,7 +97,7 @@
     "name": "Greedy Hunter",
     "link": "https://greedy-hunter.netlify.app/",
     "techUsed": "SCSS, Javascript (Vue js)",
-    "description": "A game built with vue js. The aim is to eat all the food in the game",
+    "description": "A grid-based browser game built in Vue.js, implementing reactive game state, collision detection, timed movement updates, and optimized re-render cycles for smooth, event-driven gameplay.",
     "projectActive": false,
     "github": "https://github.com/iamblackdev/greedy-hunter"
   }
